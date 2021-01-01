@@ -199,6 +199,6 @@ height: 40px;
     div.contenu{
         margin-left: auto;
         margin-right: auto;
-        min-width: 657px;
+        width: 657px;
     }
 }
